@@ -22,8 +22,8 @@ This repository contains implementations and evaluations of adversarial search a
 - Added functionality to randomly pick a tile at the start of the game, which the AI player will not use during the game.
 - Utilized a heuristic to define the desirability of a state for the AI player.
 
-## Usage
-# Running IPython Notebook on Conda
+### 5. Usage
+#### Running IPython Notebook on Conda
 
 To run an IPython Notebook (`.ipynb` file) on Conda, follow these steps:
 
